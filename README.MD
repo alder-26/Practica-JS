@@ -3,7 +3,7 @@ Nuevo proyecto.
 
 Definir roles:
 
-Raul:
+Raul: no edites mas mi contribution gilipollas
 Nico:
 David:
 Alderfer:
