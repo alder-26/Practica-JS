@@ -1,10 +1,10 @@
 
-Nuevo proyecto.
+# Nuevo proyecto.
 
-Definir roles:
+## Definir roles:
 
-Raul:
-Nico:
-David:
-Alderfer:
+### Raul: Integration Manager
+#### Nico: Developer
+#### David: Developer
+#### Alderfer: Developer
 
